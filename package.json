@@ -1,0 +1,23 @@
+{
+  "name": "kinopoisk2letterboxd",
+  "version": "1.0.0",
+  "description": "Utility for scraping user users' movie data from Kinopoisk.ru and exporting it in a Letterboxd-compatible format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlashNK/kinopoisk2letterboxd.git"
+  },
+  "keywords": [
+    "kinopoisk",
+    "letterboxd"
+  ],
+  "author": "Nikita Kharitonov (nkhari.dev@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlashNK/kinopoisk2letterboxd/issues"
+  },
+  "homepage": "https://github.com/SlashNK/kinopoisk2letterboxd#readme"
+}
